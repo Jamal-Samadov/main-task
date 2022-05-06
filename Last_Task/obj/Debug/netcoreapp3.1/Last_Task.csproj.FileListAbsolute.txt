@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Last Task\Last_Task\Last_Task\bin\Debug\netcoreapp3.1\Last_Task.exe
+C:\Users\User\Desktop\Last Task\Last_Task\Last_Task\bin\Debug\netcoreapp3.1\Last_Task.deps.json
+C:\Users\User\Desktop\Last Task\Last_Task\Last_Task\bin\Debug\netcoreapp3.1\Last_Task.runtimeconfig.json
+C:\Users\User\Desktop\Last Task\Last_Task\Last_Task\bin\Debug\netcoreapp3.1\Last_Task.runtimeconfig.dev.json
+C:\Users\User\Desktop\Last Task\Last_Task\Last_Task\bin\Debug\netcoreapp3.1\Last_Task.dll
+C:\Users\User\Desktop\Last Task\Last_Task\Last_Task\bin\Debug\netcoreapp3.1\Last_Task.pdb
+C:\Users\User\Desktop\Last Task\Last_Task\Last_Task\obj\Debug\netcoreapp3.1\Last_Task.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Last Task\Last_Task\Last_Task\obj\Debug\netcoreapp3.1\Last_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Last Task\Last_Task\Last_Task\obj\Debug\netcoreapp3.1\Last_Task.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Last Task\Last_Task\Last_Task\obj\Debug\netcoreapp3.1\Last_Task.AssemblyInfo.cs
+C:\Users\User\Desktop\Last Task\Last_Task\Last_Task\obj\Debug\netcoreapp3.1\Last_Task.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Last Task\Last_Task\Last_Task\obj\Debug\netcoreapp3.1\Last_Task.dll
+C:\Users\User\Desktop\Last Task\Last_Task\Last_Task\obj\Debug\netcoreapp3.1\Last_Task.pdb
+C:\Users\User\Desktop\Last Task\Last_Task\Last_Task\obj\Debug\netcoreapp3.1\Last_Task.genruntimeconfig.cache
